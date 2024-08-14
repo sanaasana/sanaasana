@@ -60,8 +60,8 @@
 <img title="spring" alt="spring" src="https://github.com/sanaasana/sanaasana/blob/main/assets/Spring.svg" width="70" height="40" style="vertical-align:down; margin:4px"/></a>
 
 - SGBD:
-<img title="angular" alt="angular" src="https://github.com/sanaasana/sanaasana/blob/main/assets/MongoDB.svg" width="70" height="40" style="vertical-align:down; margin:4px"/></a>
-<img title="angular" alt="angular" src="https://github.com/sanaasana/sanaasana/blob/main/assets/Microsoft SQL Server.svg" width="70" height="40" style="vertical-align:down; margin:4px"/></a>
-<img title="angular" alt="angular" src="https://github.com/sanaasana/sanaasana/blob/main/assets/MySQL.svg" width="70" height="40" style="vertical-align:down; margin:4px"/></a>
-<img title="angular" alt="angular" src="https://github.com/sanaasana/sanaasana/blob/main/assets/Oracle.svg" width="70" height="40" style="vertical-align:down; margin:4px"/></a>
+<img title="mongodb" alt="mongodb" src="https://github.com/sanaasana/sanaasana/blob/main/assets/MongoDB.svg" width="70" height="40" style="vertical-align:down; margin:4px"/></a>
+<img title="microsoftsql" alt="microsoftsql" src="https://github.com/sanaasana/sanaasana/blob/main/assets/Microsoft SQL Server.svg" width="70" height="40" style="vertical-align:down; margin:4px"/></a>
+<img title="mysql" alt="mysql" src="https://github.com/sanaasana/sanaasana/blob/main/assets/MySQL.svg" width="70" height="40" style="vertical-align:down; margin:4px"/></a>
+<img title="oracle" alt="oracle" src="https://github.com/sanaasana/sanaasana/blob/main/assets/Oracle.svg" width="70" height="40" style="vertical-align:down; margin:4px"/></a>
 
