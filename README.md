@@ -57,7 +57,7 @@
 <img title="angular" alt="angular" src="https://github.com/sanaasana/sanaasana/blob/main/assets/Angular.svg" width="70" height="40" style="vertical-align:down; margin:4px"/></a>
 <img title="bootstrap" alt="bootstrap" src="https://github.com/sanaasana/sanaasana/blob/main/assets/Bootstrap.svg" width="70" height="40" style="vertical-align:down; margin:4px"/></a>
 <img title="laravel" alt="laravel" src="https://github.com/sanaasana/sanaasana/blob/main/assets/Laravel.svg" width="70" height="40" style="vertical-align:down; margin:4px"/></a>
-<img title="spring" alt="spring" src="https://github.com/sanaasana/sanaasana/blob/main/assets/Spring.svg" width="70" height="40" style="vertical-align:down; margin:4px"/></a>
+<img title="spring" alt="spring" src="https://github.com/sanaasana/sanaasana/blob/main/assets/spring-boot-logo.png" width="70" height="40" style="vertical-align:down; margin:4px"/></a>
 
 - SGBD:
 <img title="mongodb" alt="mongodb" src="https://github.com/sanaasana/sanaasana/blob/main/assets/MongoDB.svg" width="70" height="40" style="vertical-align:down; margin:4px"/></a>
