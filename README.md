@@ -36,6 +36,8 @@
 
 <a href="https://www.linkedin.com/in/sanaa-saadaoui-647477215/" target="_blank"><img src="https://img.shields.io/badge/-Sanaa%20SAADAOUI-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 
+
+<a href="https://www.medium.com/@saadaouisanaa63" target="_blank"><img src="https://img.shields.io/badge/-Sanaa%20SAADAOUI-0077B5?style=for-the-badge&logo=Medium&logoColor=white"/></a>
 <hr>
 
 
